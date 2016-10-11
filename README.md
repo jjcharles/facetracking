@@ -10,8 +10,8 @@ This work is licensed under the Creative Commons Attribution 4.0 International L
  
 Given an input video the software will track face bounding boxes sequentially from one frame to the next. Tracks are saved to disk and a resume feature allows you to stop and start tracking from where you left off.
  
-![Example tracking1](https://raw.githubusercontent.com/jjcharles/facetracking/master/images/frame_00050.jpg)
-![Example tracking2](https://raw.githubusercontent.com/jjcharles/facetracking/master/images/frame_00138.jpg)
+![Example tracking1](https://raw.githubusercontent.com/jjcharles/facetracking/master/images/frame_00050_reduced.jpg)
+![Example tracking2](https://raw.githubusercontent.com/jjcharles/facetracking/master/images/frame_00138_reduced.jpg)
 ## Included
  
 * Software for tracking faces in videos.
