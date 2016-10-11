@@ -1,6 +1,6 @@
 # Multiple face tracking in video
  
-MATLAB implemented software for multi-face tracking in videos. Originally developed for an [ECCV 2016 workshop paper](#Citation) to track characters' faces in TV shows.
+MATLAB implemented software for multi-face tracking in videos. Originally developed for an [ECCV 2016 workshop paper](#citation) to track characters' faces in TV shows.
  
 Code provided by James Charles.
  
