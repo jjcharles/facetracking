@@ -20,7 +20,7 @@ Given an input video the software will track face bounding boxes sequentially fr
 
 ## How it works
 
-This software detects faces using the front-face detector of Viola-Jones. Face bounding boxes are then tracked using the Kanade-Lucas-Tomasi (KLT) algorithm. The tracked key points (BRISK) are updated when a new face detection appears. Key points are only searched for within the centre of the face bounding box, this reduces drift to background content but also enables tracking to profile faces.
+This software detects faces using the frontal-face detector of Viola-Jones. Face bounding boxes are then tracked using the Kanade-Lucas-Tomasi (KLT) algorithm. The tracked key points (BRISK) are updated when a new face detection appears. Key points are only searched for within the centre of the face bounding box, this reduces drift to background content but also enables tracking to profile faces.
  
 ## Dependencies
  
